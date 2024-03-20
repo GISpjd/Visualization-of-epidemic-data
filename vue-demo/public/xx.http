@@ -1,0 +1,4 @@
+GET https://c.m.163.com/ug/api/wuhan/app/data/list-total?t=342166027082 HTTP/1.1
+Content-Type:application/json;charset=UTF-8
+//这个Content-Type是网站接口信息提供了的，直接copy
+//点击Send Request即可
